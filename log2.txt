@@ -1,0 +1,183 @@
+PROGRAM STATE ID: 2
+
+EXECUTION STACK:
+int a;int b;a=2+10/0;b=a+1;print(b)
+
+TABLE OF SYMBOLS:
+
+OUTPUT:
+
+TABLE OF FILES:
+
+HEAP:
+
+--------------------------------------------------------------------------------------
+
+PROGRAM STATE ID: 2
+
+EXECUTION STACK:
+int a
+int b;a=2+10/0;b=a+1;print(b)
+
+TABLE OF SYMBOLS:
+
+OUTPUT:
+
+TABLE OF FILES:
+
+HEAP:
+
+--------------------------------------------------------------------------------------
+
+PROGRAM STATE ID: 2
+
+EXECUTION STACK:
+int a
+int b;a=2+10/0;b=a+1;print(b)
+
+TABLE OF SYMBOLS:
+
+OUTPUT:
+
+TABLE OF FILES:
+
+HEAP:
+
+--------------------------------------------------------------------------------------
+
+PROGRAM STATE ID: 2
+
+EXECUTION STACK:
+int b;a=2+10/0;b=a+1;print(b)
+
+TABLE OF SYMBOLS:
+a->0
+
+OUTPUT:
+
+TABLE OF FILES:
+
+HEAP:
+
+--------------------------------------------------------------------------------------
+
+PROGRAM STATE ID: 2
+
+EXECUTION STACK:
+int b;a=2+10/0;b=a+1;print(b)
+
+TABLE OF SYMBOLS:
+a->0
+
+OUTPUT:
+
+TABLE OF FILES:
+
+HEAP:
+
+--------------------------------------------------------------------------------------
+
+PROGRAM STATE ID: 2
+
+EXECUTION STACK:
+int b
+a=2+10/0;b=a+1;print(b)
+
+TABLE OF SYMBOLS:
+a->0
+
+OUTPUT:
+
+TABLE OF FILES:
+
+HEAP:
+
+--------------------------------------------------------------------------------------
+
+PROGRAM STATE ID: 2
+
+EXECUTION STACK:
+int b
+a=2+10/0;b=a+1;print(b)
+
+TABLE OF SYMBOLS:
+a->0
+
+OUTPUT:
+
+TABLE OF FILES:
+
+HEAP:
+
+--------------------------------------------------------------------------------------
+
+PROGRAM STATE ID: 2
+
+EXECUTION STACK:
+a=2+10/0;b=a+1;print(b)
+
+TABLE OF SYMBOLS:
+a->0
+b->0
+
+OUTPUT:
+
+TABLE OF FILES:
+
+HEAP:
+
+--------------------------------------------------------------------------------------
+
+PROGRAM STATE ID: 2
+
+EXECUTION STACK:
+a=2+10/0;b=a+1;print(b)
+
+TABLE OF SYMBOLS:
+a->0
+b->0
+
+OUTPUT:
+
+TABLE OF FILES:
+
+HEAP:
+
+--------------------------------------------------------------------------------------
+
+PROGRAM STATE ID: 2
+
+EXECUTION STACK:
+a=2+10/0
+b=a+1;print(b)
+
+TABLE OF SYMBOLS:
+a->0
+b->0
+
+OUTPUT:
+
+TABLE OF FILES:
+
+HEAP:
+
+--------------------------------------------------------------------------------------
+
+PROGRAM STATE ID: 2
+
+EXECUTION STACK:
+a=2+10/0
+b=a+1;print(b)
+
+TABLE OF SYMBOLS:
+a->0
+b->0
+
+OUTPUT:
+
+TABLE OF FILES:
+
+HEAP:
+
+--------------------------------------------------------------------------------------
+
